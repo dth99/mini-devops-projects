@@ -41,7 +41,7 @@ chmod +x server-stats.sh
 
 ## 🧪 Sample Output
 
-![Server Performance Screenshot](https://github.com/dth99/Server-Performance-Stats/blob/main/Screenshot%20From%202025-05-24%2023-57-55.png)
+![Server Performance Screenshot](https://github.com/dth99/mini-devops-projects/blob/main/Server-Performance-Stats/Screenshot%20From%202025-05-24%2023-57-55.png)
 
 
 ## 👨‍💻 Author

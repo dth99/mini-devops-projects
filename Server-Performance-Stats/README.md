@@ -52,4 +52,4 @@ chmod +x server-stats.sh
 
 ## 🔗 Reference
 
-Project inspired by [roadmap.sh – Server Stats](https://roadmap.sh/projects/server-stats)
+[Project Reference](https://roadmap.sh/projects/server-stats)

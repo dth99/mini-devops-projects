@@ -1,0 +1,11 @@
+[Unit]
+Description=Dummy Systemd Service
+
+[Service]
+Type=simple
+ExecStart=/home/dth99/dummy.sh
+Restart=on-failure
+RestartSec=5s
+
+[Install]
+WantedBy=multi-user.target

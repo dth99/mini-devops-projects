@@ -48,10 +48,3 @@ chmod +x server-stats.sh
 
 [Deepak Kumar](https://www.linkedin.com/in/deepakkumar2o/)
 
-
-
-## 🔗 Reference
-
-[Project reference](https://roadmap.sh/projects/server-stats)
-
-https://roadmap.sh/projects/server-stats

@@ -60,4 +60,3 @@ A simple **Bash CLI utility** to archive log directories on demand (or via cron)
 ![Deepak](https://github.com/dth99/mini-devops-projects/blob/main/log-archive-tool/Screenshot%20From%202025-05-25%2009-56-21.png)
 ![Deepakkumar20](https://github.com/dth99/mini-devops-projects/blob/main/log-archive-tool/Screenshot%20From%202025-05-25%2009-58-08.png)
 
-[Project reference](https://roadmap.sh/projects/log-archive-tool)

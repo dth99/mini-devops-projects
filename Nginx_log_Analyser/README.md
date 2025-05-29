@@ -46,13 +46,6 @@ Run the script:
 
 ![dth99](https://github.com/dth99/mini-devops-projects/blob/main/Nginx_log_Analyser/image.png)
 
----
-
-## 🔗 Reference
-
-[Project reference](https://roadmap.sh/projects/nginx-log-analyser)
-
----
 
 ## 👨‍💻 Author
 

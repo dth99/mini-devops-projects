@@ -10,3 +10,6 @@
 [Project reference](https://roadmap.sh/projects/dummy-systemd-service)
 
 [Project reference](https://roadmap.sh/projects/github-actions-deployment-workflow)
+
+
+[Project reference](https://roadmap.sh/projects/static-site-server)
